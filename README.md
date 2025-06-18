@@ -7,7 +7,6 @@
 
 This repository accompanies the survey paper titled *Innovative Approaches in Image-Based 3D Object Detection for Autonomous Driving*. It covers various methods, datasets, and algorithms for 3D object detection, focusing on image-based techniques in the autonomous driving domain.
 
-![image](https://github.com/user-attachments/assets/1429539d-0153-493f-be7a-c61ef2d19f4e)
 
 ## Data Sources for 3D Object Detection
 
