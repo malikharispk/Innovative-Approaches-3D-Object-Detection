@@ -1,4 +1,4 @@
-# Innovative Approaches in Image-Based 3D Object Detection for Autonomous Driving
+# Innovative Approaches in Image-Based 3D Object Detection for Autonomous Driving: A Comprehensive Review
 
 **Authors:** Malik Haris, Yaoguo Zhang, Guoqiang Zhang, Muhammad Shahid Mastoi, Mannan Hassan, Asif Raza, Zhengqing Li  
 **Publication:** xxx
